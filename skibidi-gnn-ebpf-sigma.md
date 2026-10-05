@@ -1,4 +1,4 @@
-# Skibidi-GNN-EBPF-Sigma: 🎯 Adversarial AI Meets Graph-Theoretic Crypto in Zero-Trust Networks
+# Skibidi-GNN-EBPF-Sigma: Adversarial AI Meets Graph-Theoretic Crypto in Zero-Trust Networks
 **Date:** 2026-10-06
 **Key Topics Covered:** LLM Application Stack Security | Graph-Theoretic Cryptographic Primitives | Temporal Graph-Based Network Classification
 

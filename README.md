@@ -1,27 +1,15 @@
-# Skibidi-GNN-EBPF-Sigma: Adversarial AI Meets Graph-Theoretic Crypto in Zero-Trust Networks
+# Skibidi GNN + eBPF Sigma: Crack the Ultimate AI-Driven Zero-Trust Architecture
 
-## Overview
-Today's deep dive into the convergence of adversarial AI and graph-theoretic cryptography reveals three groundbreaking developments reshaping network security and cryptographic primitives.
+## Description
 
-**Key Topics Covered:**
-- LLM Application Stack Security Vulnerabilities
-- Graph-Theoretic Cryptographic Primitives (ExpanderGraph-128)
-- Temporal Graph-Based Network Classification (BiDT Framework)
+🔍 Deep dive into 2026's most critical convergence: Graph Neural Networks (GNNs) combined with eBPF telemetry to detect AI-driven lateral movement attacks that bypass Zero Trust Architecture (ZTA) assumptions. This repo captures the technical architecture, mathematical foundations, and code demonstrations for next-generation network security.
 
-## Why This Matters
-The shift from model-only to full application stack security means adversaries now target protocol-level interactions rather than just model weights. Simultaneously, we see fundamentally new cryptographic paradigms emerging from theoretical computer science, while graph-based approaches achieve unprecedented accuracy in threat detection.
+## Key Topics
 
-## Deep Dive
-Explore the complete technical analysis including:
-- Mathematical foundations and formal proofs
-- Production-grade C++ implementations
-- Edge-case validation and complexity analysis
-- Advanced self-assessment quiz with detailed answer keys
+1. AI-driven lateral movement attacks breaking ZTA assumptions
+2. QUIC/TLS protocol vulnerabilities and memory exhaustion exploits
+3. Graph Neural Networks for anomaly detection and traffic classification
 
-**[Read the full technical breakdown → skibidi-gnn-ebpf-sigma.md](./skibidi-gnn-ebpf-sigma.md)**
+## Link to Deep Dive
 
-## Today's Technical Rhythm
-*Just like skibidi toilet patterns, modern security requires understanding both the *what* and the *when* of every interaction.*
-
-## Connect
-This analysis is part of the daily contributions series focusing on breaking developments at the intersection of AI, cryptography, and network security.
+See the comprehensive analysis in [skibidi-gnn-ebpf-sigma.md](skibidi-gnn-ebpf-sigma.md).
